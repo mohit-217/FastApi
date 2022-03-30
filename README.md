@@ -1,1 +1,1 @@
-# Trend Forecasting System using FAstApi
+# Trend Forecasting System and model serving using FAstApi
